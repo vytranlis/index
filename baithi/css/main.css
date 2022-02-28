@@ -1,0 +1,316 @@
+@import url(https://fonts.google.com/specimen/Roboto+Mono);
+.lonnhat{
+			width: 100%;
+			height: 3880px;
+			background-color:orangered;
+			font-family: 'Roboto', sans-serif;	
+		}
+		.header{
+		width: 100%;
+		height: 80px;
+		background-color: darkred;
+}
+.logo{
+	width: 30%;
+	height: 80px;
+	float: left;
+	box-sizing: border-box;
+}
+.logo a{
+	font-size: 30px;
+	margin: 20px 70px;
+	float: left;
+	text-decoration: none;
+	color: floralwhite;
+}
+.text-center{
+	text-align: center;
+}
+.menu{
+	width: 70%;
+	height: 80px;
+	background-color: orangered;
+	float: right;
+}
+
+.menu ul{
+	list-style: none;
+	padding: 0;
+	font-size: 20px;
+	margin: 10px 50px;  
+}
+.menu ul li{
+	padding: 20px;
+	float: left;
+}
+.menu ul li a {
+	text-decoration: none;
+	color: floralwhite;
+	
+}
+.menu-img img{
+	float: right;
+	padding: 15px 20px;	
+}
+		.slider{
+		width: 100%;
+		height: 600px;
+		background-image: url("../images/susan-holt-simpson-H7SCRwU1aiM-unsplash.jpg");
+		background-size: cover;
+}
+.content-slider{
+	line-height: 50px;
+	box-sizing: border-box;
+    font-size: 50px; 
+    color: floralwhite;
+    padding: 170px;
+}
+.content-slider a{
+	font-size: 50px;
+	text-decoration: none;
+	border-radius: 300px;
+	padding: 8px 40px;
+	color: floralwhite;
+	background: orangered;
+}
+
+		.mid{
+		width: 100%;
+		height:600px;
+		background-color:darkred;
+		padding: 10px;
+		box-sizing: border-box;
+}
+.mid h1{
+	color: floralwhite;
+}
+.icon{
+	border-radius:10px;
+	width: 30%;
+	height: 420px;
+	background-color: orangered;
+	float: left;
+	margin: 0 22px ;
+	padding: 10px ;
+	box-sizing: border-box;
+}
+.icon img{
+	border-radius: 100px;
+}
+
+.icon h1{
+	font-size: 30px;
+	float: left;
+}
+.icon p{
+	color: floralwhite;
+	font-size: 20px;
+	float: right;
+}
+
+
+
+
+		
+
+		.examples{
+		width: 100%;
+		height: 600px;
+		background-color: floralwhite;
+		padding: 20px 200px;
+		box-sizing: border-box;
+}
+.examples h1{
+	color: darkred;
+	margin: 10px;
+}
+.ex-a{
+	width: 45%;
+	height: 200px;
+	float: left;
+	background-color: floralwhite;	
+	margin: 20px;
+	box-sizing: border-box;	
+}
+.ex-a img{
+	border-radius: 50px;
+}
+.ex-a h1{
+	color: darkred;
+	font-size: 30px;
+	float: left;
+	margin: 20px 0;
+}
+.ex-a p{
+	margin: 0;
+	float: left;
+	color: darkred;
+	font-size: 15px;
+}
+
+		.news{
+		width: 100%;
+		height: 600px;
+		background-color:darkred;
+}
+.news-left{
+	width: 50%;
+	height: 600px;
+	box-sizing: border-box;
+	float: left;
+}
+.news-left img{
+	margin-left: 220px;
+}
+.news-right{
+	width: 50%;
+	height: 600px;
+	background-color: darkred;
+	box-sizing: border-box;
+	float: right;
+	padding: 120px;
+}
+.news-right p{
+	font-size: 30px;
+	color: floralwhite;	
+}
+.news-right a{
+	text-decoration: none;
+	font-size: 30px;
+	color: floralwhite;
+	background: orangered; 
+	border-radius: 300px;
+	padding: 8px 40px;
+}
+
+			.features{
+			width: 100%;
+			height: 600px;
+			background-color: floralwhite;
+			padding: 10px 210px;
+			box-sizing: border-box;
+}
+.features h1{
+	color: darkred;
+	text-align: center;
+	padding: 10px 0 30px 0;
+}
+
+.features-icon{
+	border-radius:10px;
+	width: 15%;
+	height: 400px;
+	background-color: floralwhite;
+	float: left;
+	margin:0 50px;
+	box-sizing: border-box;
+}
+.features-icon img{
+	border-radius: 300px;
+}
+.features-icon h1{
+	float: left;
+	font-size: 20px;
+	margin: 0 px;
+}
+.features-icon p{
+	color: darkred;
+	float: left;
+	padding: 0 ;
+	margin: 0;
+}
+
+.features-icon a{
+	font-size: 15px;
+	text-decoration: none;
+	color: floralwhite;
+	background: orangered; 
+	border-radius: 300px;
+	padding: 6px 20px;
+	box-sizing: border-box;	
+	float: left;
+	margin: 15px 0px;
+}
+
+
+		
+		.signup{
+		width: 100%;
+		height: 500px;
+		background-color: darkred;
+		padding: 20px 200px;
+		box-sizing: border-box;
+}
+.signup h1{
+	color: floralwhite;
+	margin: 70px ;
+}
+.signup p{
+	font-size: 15px;
+	color: floralwhite;
+	padding: 0 70px;
+	margin: 70px;
+}
+
+.signup a{
+	font-size: 20px;
+	text-decoration: none;
+	color: floralwhite;
+	background: orangered; 
+	border-radius: 300px;
+	padding: 6px 40px;
+	box-sizing: border-box;	
+	margin: 50px;
+	float: bottom;
+}
+
+
+
+		.footer{
+		width: 100%;
+		height: 300px;
+		background-color:darkred;
+		box-sizing: border-box;
+		margin:7px 0; 
+}
+.footer-logo{
+	width: 30%;
+	height: 80px;
+	float: left;
+	box-sizing: border-box;
+	padding: 45px 80px;
+}
+.footer-logo a{
+	text-decoration: none;
+	color: floralwhite;
+	font-size: 40px;
+}
+.footer p{
+	text-decoration: none;
+	color: floralwhite;
+	font-size: 15px;
+	float: right;
+	margin: 50px 50px 0;
+}
+.footer ul{
+	list-style: none;
+	padding: 0;
+	font-size: 18px;
+	margin: 50px 70px;
+	box-sizing: border-box;
+	float: left;
+
+	
+}
+.footer ul li{
+	padding: 10px;
+}
+.footer ul li a {
+	text-decoration: none;
+	color: floralwhite;	
+}
+.footer-logo img{
+	
+	padding: 50px 20px 0 0px;	
+}
+
